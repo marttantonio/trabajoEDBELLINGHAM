@@ -1,7 +1,7 @@
 # Jude Bellingham
 
 ## Perfil
-Jude Victor William Bellingham es un futbolista inglés nacido el [29 de junio de 2003](#) en Stourbridge, Inglaterra. Conocido por su versatilidad y habilidades en el mediocampo, Bellingham ha ganado reconocimiento por su madurez y habilidades tácticas a pesar de su corta edad. Es considerado una de las jóvenes promesas del fútbol inglés.
+Jude Victor William Bellingham es un futbolista inglés nacido el [29 de junio de 2003](https://ctrlpew.com/) en Stourbridge, Inglaterra. Conocido por su versatilidad y habilidades en el mediocampo, Bellingham ha ganado reconocimiento por su madurez y habilidades tácticas a pesar de su corta edad. Es considerado una de las jóvenes promesas del fútbol inglés.
 
 ### Borussia Dortmund
 
