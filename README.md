@@ -1,9 +1,17 @@
 # Jude Bellingham
 
 ## Perfil
-Nacido el 29 de junio del 2003, Jude Bellingham es un mediocampista formado en el Birmingham City de su país, donde se ganó un lugar como titular desde una temprana edad: con 16 años ya era una fija en el Championship (segunda categoría del fútbol inglés), y llegó a titularizar en 32 partidos de la temporada 2019-2020.
 
-Luego de destacar allí y con las selecciones formativas de su país, Bellingham fue comprado en 2020 por el Borussia Dortmund, por una cifra récord para su edad de entre 25 y 30 millones de euros. A partir de entonces, el mediocampista se consolidó en el conjunto alemán, mientras que también está firme dentro del once del seleccionado británico.
+Jude Bellingham, nacido el 29 de junio de 2003 en Stourbridge, Inglaterra, es un talentoso futbolista británico que ha emergido como una de las jóvenes promesas más destacadas en el mundo del fútbol. Su ascenso meteórico y su habilidad innata en el campo lo han convertido en un nombre reconocido en el deporte a una edad temprana.
+
+Bellingham inició su carrera futbolística en las categorías juveniles del Birmingham City, un club de la English Football League Championship (EFL). Su impresionante desempeño en las divisiones inferiores captó la atención de los cazatalentos y rápidamente ascendió a las filas superiores del club. Debutó con el primer equipo a una edad asombrosa, demostrando madurez y calidad técnica que dejaron boquiabiertos a muchos observadores del fútbol.
+
+Lo más destacado de Bellingham no se limita solo a sus habilidades técnicas, sino también a su inteligencia táctica y visión de juego excepcionales. A pesar de su juventud, muestra una madurez futbolística que va más allá de su edad cronológica. Su capacidad para leer el juego, distribuir el balón con precisión y contribuir tanto en la fase defensiva como en la ofensiva lo ha convertido en un centrocampista completo y versátil.
+
+El jugador inglés se destacó aún más en la temporada 2020-2021, lo que llevó a su transferencia al Borussia Dortmund, uno de los clubes más prominentes de la Bundesliga alemana. Su llegada a Alemania no solo fue un paso más en su carrera, sino también una prueba de su capacidad para adaptarse a nuevos entornos y desafíos. En el Borussia Dortmund, Bellingham rápidamente se ganó un lugar en el equipo titular y se convirtió en una pieza fundamental en el centro del campo.
+
+
+
 
 ### Borussia Dortmund
 
@@ -13,9 +21,15 @@ El 14 de septiembre, en su debut con el Borussia Dortmund, anotó uno de los gol
 
 ### Selección Nacional
 
+A nivel internacional, Jude Bellingham también ha dejado su huella. Representando a Inglaterra en diferentes categorías juveniles, ha participado en competiciones importantes, demostrando su valía en el escenario internacional. Su inclusión en la selección absoluta de Inglaterra ha sido solo cuestión de tiempo, y muchos esperan que se convierta en un pilar fundamental para su país en los años venideros.
+
 Previo a su fichaje con el Real Madrid, Jude Bellingham acumula 24 partidos disputados con la Selección de Inglaterra y marcó su primer gol en el Mundial Qatar 2022. El joven abrió la cuenta del 6-2 frente a Irán, por la primera fecha del Grupo B. Gareth Southgate lo designó titular y rindió en gran nivel, por lo que no extraña verlo como una pieza clave dentro del 11 de los Tres Leones.
 
 Además repartió una asistencia en el primer cruce de eliminación directa ante Senegal, lo que lo llevó a convertirse en el primer jugador menor de 20 años con un tanto y un pase gol en una Copa del Mundo desde que lo hiciera Lionel Messi en Alemania 2006.
+
+## Fuera del Campo
+Fuera del campo, Bellingham también ha llamado la atención por su actitud humilde y profesional. A pesar de la fama y la atención mediática, ha mantenido una ética de trabajo ejemplar y una mentalidad centrada en el fútbol. Su dedicación al deporte y su disposición para aprender y mejorar constantemente sugieren que su futuro en el fútbol está lleno de promesas y éxitos.
+
 
 ## Estadísticas
 
@@ -68,4 +82,6 @@ Este, ha ido incrementando su valor a medida que iba jugando partidos, empezando
 ![belli1](https://images.daznservices.com/di/library/DAZN_News/9b/d6/bellingham-real-madrid-osasuna-laliga_zsylgm4ziqdr1juobg39f9xtc.jpg?t=241618219)
 ![belli2](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0f28634b2f7bd0f5/64e3a72f4fc4ac858370f34c/Jude_Bellingham.jpg?auto=webp&format=pjpg&width=3840&quality=60)
 
+
+En resumen, Jude Bellingham es más que un prodigio del fútbol; es un ejemplo de cómo la juventud puede impactar positivamente en el deporte. Su habilidad técnica, inteligencia táctica y madurez fuera del campo lo han convertido en una figura clave en el presente y el futuro del fútbol británico e internacional.
 
